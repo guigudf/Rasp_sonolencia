@@ -49,7 +49,7 @@ EYE_AR_CONSEC_FRAMES = 20
 COUNTER = 0
 
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("models/shape_predictor_68_face_landmarks.dat")# Dat file is the crux of the code
+predictor = dlib.shape_predictor("models/shape_predictor_68_face_landmarks.dat")
 
 camera = VideoStream(usePiCamera=True).start() 
 time.sleep(1)
