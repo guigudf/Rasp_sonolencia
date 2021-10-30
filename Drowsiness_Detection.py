@@ -45,7 +45,7 @@ def final_ear(shape):
 
 
 EYE_AR_THRESH = 0.25
-EYE_AR_CONSEC_FRAMES = 20
+EYE_AR_CONSEC_FRAMES = 30
 COUNTER = 0
 
 detector = dlib.get_frontal_face_detector()
