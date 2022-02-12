@@ -3,7 +3,7 @@
  ### Sobre o projeto
 
 <p align="justify"> &emsp;&emsp;
-  O Over26 consiste em um Mínimo Produto viável (MVP) para o teste de uma nova experiência de crédito por meio do cheque especial em uma conta de pagamento. O objetivo deste produto consiste em estabelecer um melhor resultado em termos de experiência de usuário e usabilidade para a oferta do serviço no Brasil.
+  O Over26 consiste em um Mínimo Produto viável (MVP) para o teste de uma nova experiência de crédito por meio do cheque especial em uma conta de pagamento. O objetivo deste produto consiste em estabelecer um melhor Resultado em termos de experiência de usuário e usabilidade para a oferta do serviço no Brasil.
 </p>
 
 ### Principais funcionalidades
