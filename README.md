@@ -1,7 +1,7 @@
 # Rasp_sonolencia
 projeto final de eletrônica embarcada - UNB GAMA - FGA
 
-Para executar esse aquivo digite "phyton Drowsiness_Detection.py" no terminal da raspberry
+Para executar esse aquivo digite "phyton Drowsiness_Detection.py" no terminal da raspberry.
 
 Link Videos dos Testes no Youtube:\
   Teste Situação 1: https://youtu.be/iGIVLHbdUAo \
