@@ -62,3 +62,5 @@ while True:
 		break
 cv2.destroyAllWindows()
 camera.release() 
+
+#qube
